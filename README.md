@@ -1,5 +1,5 @@
 # Asian-Option-Pricing
-Projet Monte Carlo Methods M1
+Projet Monte Carlo Methods 
 
 Pricing d'une option asiatique
 
